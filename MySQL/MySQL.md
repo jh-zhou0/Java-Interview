@@ -4,7 +4,7 @@
 * InnoDB支持行级锁，而MyISAM支持表级锁
 * InnoDB支持MVCC, 而MyISAM不支持
 * InnoDB支持外键，而MyISAM不支持
-* InnoDB不支持全文索引，而MyISAM支持。
+* InnoDB不支持全文索引(MySQL 5.6 开始支持, 原因是innodb 从1.2.x 开始才增加了全文索引支持, 而MySQL5.6版本中innodb的版本才升级到 1.2.x。)，而MyISAM支持。
 
 ## 2. 事务的特性
 
