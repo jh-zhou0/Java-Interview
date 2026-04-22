@@ -3,6 +3,9 @@
 
 > 在线阅读：https://www.javalearn.cn/
 
+<br> <a href="https://docs.qq.com/sheet/DY1hoWkl5em9VeE1O?tab=BB08J2" name="【腾讯文档】【持续更新】2023春招&实习汇总"></a>
+<br>  <a href="https://mp.weixin.qq.com/s?__biz=MzkyMTI3Mjc2MQ==&amp;mid=2247492874&amp;idx=1&amp;sn=c473f44b8cd27c7a9542c6ac3f7148ce&amp;chksm=c1848ddcf6f304ca324e83b1f7f897e8f1d07c5b1adaf4b63413b4f45764c326ed088967f7a7&token=371557437&lang=zh_CN#rd" name="找我修改简历、辅导求职"></a> 
+
 <p align="center">
     <br>
     <a href="http://blog-img.coolsen.cn/img/image-20210617144435278.png"><img src="https://img.shields.io/badge/WeChat-微信交流群-blue.svg" alt="微信交流群"></a>
@@ -14,8 +17,11 @@
         </p>
 
 <div>
- <br> <strong>👍推荐<a href="https://github.com/cosen1024/awesome-cs-books">免费下载几百本计算机经典 电子书</a></strong> <br>
-    </div> 
+ 
+
+<br> <strong>👍推荐<a href="https://github.com/cosen1024/awesome-cs-books">免费下载几百本计算机经典 电子书</a></strong> 
+</div> 
+
 
 ## 更多
 <a name="download"></a>
@@ -95,4 +101,4 @@
 * [分布式](/分布式/面试题.md)
 
 ## 关于我
-[库森的校招经历](https://mp.weixin.qq.com/s/Q1uNpj_6mGscy5JbMqMY-Q)
+[库森的校招经历](https://mp.weixin.qq.com/s?__biz=MzkyMTI3Mjc2MQ==&tempkey=MTIxNV81aG91ZWFjc0E3SWQzUCtmY2ZRQ3I1QXJ0MjZPcndKU3FVdDhqWVI2dGh0bDBCTE9ZTGxWamhUcmFuODZmRFhubXBQMGtCVHd3UUhPTkRHYVh0cTZJaHhSeUx2aTJkUXJocUtSVVpVUU5qaGZoYUdFVFNPOG15X2tGbWFVM1g5bFVQVlo2SGZmbGVtdjVSU2RVZTlhSW9zT1NtcjFHeG1nNzhQbUlRfn4%3D&chksm=c184814ef6f308589c207f852920ac287d1d5eb7b05846483b6e7699448a8bf2578b7a03bc33&token=483239364&lang=zh_CN#rd)
